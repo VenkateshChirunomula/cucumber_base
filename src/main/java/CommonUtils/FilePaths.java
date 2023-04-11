@@ -4,7 +4,7 @@ public class FilePaths {
 
     private static final String projectPath = System.getProperty("user.dir");
     private static final String LocatorsFolderPath = projectPath+"\\src\\main\\resources\\Locators\\";
-    private static final String LocatorsFolderPath_new = projectPath+"\\src\\main\\resources\\Locators\\";
+   // private static final String LocatorsFolderPath_new = projectPath+"\\src\\main\\resources\\Locators\\";
 
 
     public static String getProjectPath(){
