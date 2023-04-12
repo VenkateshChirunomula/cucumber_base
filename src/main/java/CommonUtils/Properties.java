@@ -1,11 +1,10 @@
 package CommonUtils;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.HashMap;
+
+import org.openqa.selenium.By;
 
 public class Properties {
 
