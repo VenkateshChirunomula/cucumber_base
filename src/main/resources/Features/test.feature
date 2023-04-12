@@ -21,4 +21,4 @@ Feature: Verify login functionality
     Then user clicked on "buttonContinue" on "CheckoutPage"
     Then user clicked on "buttonFinish" on "CheckoutPage"
     Then user validated the text of "thankYouMessage" should display as "Thank you for your order!" on "CheckoutCompletePage"
-    #And user closed the browser
+    And user closed the browser
